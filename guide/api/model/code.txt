@@ -1,0 +1,16 @@
+target this week:  files connections
+targret  next week : node development
+1.  
+   def fetchData(datasource):
+    import pandas
+    if datasource == 'excel':
+        return pandas.read_excel.__doc__.split("\n")
+    elif datasource == 'text':
+        pass
+    elif datasource == 'csv':
+        return pandas.read_csv.__doc__.split("\n")
+    else:
+        raise valueError("enter correct file format")
+	
+  return JSON FORMAT INFO
+
