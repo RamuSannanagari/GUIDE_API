@@ -1,0 +1,113 @@
+[2019-11-23 21:11:35,997] [MainThread] [INFO] [in log.py :54] hello world !!
+[2019-11-23 23:45:56,017] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-23 23:46:22,712] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-23 23:46:22,720] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-23 23:58:12,463] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-23 23:58:12,469] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 06:41:30,076] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 06:41:30,078] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 06:57:18,062] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 06:57:18,149] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 06:57:18,149] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 06:57:18,150] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 06:58:18,494] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 06:58:18,497] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 06:58:18,499] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 06:58:18,503] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:05:20,356] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:05:20,361] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:05:20,365] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:05:20,367] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:06:16,020] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:06:16,024] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:06:16,027] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:06:16,029] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:06:59,877] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:06:59,879] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:06:59,881] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:06:59,882] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:09:29,702] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:09:29,705] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:09:29,707] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:09:29,709] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:10:59,172] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:10:59,173] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:10:59,174] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:10:59,175] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:11:10,892] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:11:10,896] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:11:19,678] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:11:19,684] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:11:19,686] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:11:19,689] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:16:10,890] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:16:10,891] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:16:10,892] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:16:10,893] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:19:42,525] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:19:42,526] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:19:42,527] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:19:42,527] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:20:15,973] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:20:15,975] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:20:15,976] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:20:15,976] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:30:49,838] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:30:49,840] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:30:49,841] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:30:49,842] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:31:51,281] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:31:51,282] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:31:51,283] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:31:51,283] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:33:08,739] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:33:08,742] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:33:08,744] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:33:08,745] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:36:37,824] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:36:37,828] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:37:09,851] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:37:09,855] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:37:09,857] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:37:09,858] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:39:01,760] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:39:01,765] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:39:07,704] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 415 Unsupported Media Type>]
+[2019-11-24 07:39:07,712] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:39:07,714] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:39:07,716] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:42:06,416] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:42:06,421] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:42:12,167] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 415 Unsupported Media Type>]
+[2019-11-24 07:42:12,171] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:42:12,173] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:42:12,174] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:44:36,487] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:44:36,492] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:44:43,426] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 415 Unsupported Media Type>]
+[2019-11-24 07:44:43,429] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : KeyError 
+[2019-11-24 07:44:43,429] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'data'
+[2019-11-24 07:44:43,430] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 22, Func.Name : log, Message : metric['req_body'] = req.context['data']", 'File : C:\\Users\\abhi\\Anaconda3\\lib\\site-packages\\falcon\\util\\structures.py , Line : 151, Func.Name : __getitem__, Message : return self.__dict__.__getitem__(key)']
+[2019-11-24 07:45:22,867] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:45:22,870] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:45:31,044] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:45:31,045] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : AttributeError 
+[2019-11-24 07:45:31,046] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'datetime.timedelta' object has no attribute 'microseeconds'
+[2019-11-24 07:45:31,048] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 36, Func.Name : log, Message : metric['tookmsec'] = (span.days * 86400000) + (span.seconds * 1000) + (span.microseeconds / 1000)"]
+[2019-11-24 07:47:16,768] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:47:16,772] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:47:22,469] [waitress] [INFO] [in C:\Users\abhi\api\resources\mapping\utterance.py :52] output returned by the Model: ['Sheet1', 'Sheet2', 'Sheet3']
+[2019-11-24 07:47:22,478] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-11-24 07:47:22,479] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :24] Exception type : AttributeError 
+[2019-11-24 07:47:22,480] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :25] Exception message : 'datetime.timedelta' object has no attribute 'microseeconds'
+[2019-11-24 07:47:22,480] [waitress] [INFO] [in C:\Users\abhi\api\utils\ex_util.py :26] Stack trace : ["File : C:\\Users\\abhi\\api\\utils\\metrics.py , Line : 36, Func.Name : log, Message : metric['tookmsec'] = (span.days * 86400000) + (span.seconds * 1000) + (span.microseeconds / 1000)"]
+[2019-11-24 07:51:55,785] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-11-24 07:51:55,789] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-11-24 07:52:03,316] [waitress] [INFO] [in C:\Users\abhi\api\resources\mapping\utterance.py :52] output returned by the Model: ['Sheet1', 'Sheet2', 'Sheet3']
+[2019-11-24 07:52:03,317] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
+[2019-12-26 12:15:29,392] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-12-26 12:15:29,407] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-12-26 13:23:22,757] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :19] API Server Coming Up...
+[2019-12-26 13:23:22,961] [MainThread] [INFO] [in C:\Users\abhi\api\app.py :40] API Server Ready To Serve Requests
+[2019-12-26 13:23:25,050] [waitress] [INFO] [in C:\Users\abhi\api\resources\mapping\utterance.py :51] output returned by the Model: ['Sheet1', 'Sheet2', 'Sheet3']
+[2019-12-26 13:23:25,120] [waitress] [DEBUG] [in C:\Users\abhi\api\utils\metrics.py :17] function involed: metrics Logging, with parameters: param1[<Response: 200 OK>]
